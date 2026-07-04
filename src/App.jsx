@@ -192,7 +192,7 @@ function Navbar() {
           <a href="#" className="flex items-center gap-3 group">
             <div className="relative">
               <img
-                src="https://static.tildacdn.pub/tild3862-6637-4363-a530-613163656564/DT.png"
+                src="/timoshin_logo.png"
                 alt="Денис Тимошин"
                 className="w-10 h-10 object-contain transition-transform group-hover:scale-110"
               />
@@ -857,7 +857,7 @@ function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-4">
         <div className="flex items-center gap-3">
           <img
-            src="https://static.tildacdn.pub/tild3862-6637-4363-a530-613163656564/DT.png"
+            src="/timoshin_logo.png"
             alt="Денис Тимошин"
             className="w-8 h-8 object-contain"
           />
